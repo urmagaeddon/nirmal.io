@@ -1,5 +1,5 @@
 ---
-layout: My Repository
+layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~., or can it 0_0
