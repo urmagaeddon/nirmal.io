@@ -1,15 +1,12 @@
 ---
 layout: default
 ---
-```
-Text can be **bold**, _italic_, or ~~strikethrough~~., or can it 0_0
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-```
+[Link to my GITHUB page]([./another-page.html](https://github.com/urmagaeddon)).
+
+
 ## About Me
 
 Hi, My name is Nirmal Kavindu Athukorale, a srilankan cybersecurity student, studying in Taylors University, Malaysia. This here is a site to 
@@ -38,7 +35,7 @@ showcase some of my experience
 > CISCO cybersecurity
 
 
-### Header 3
+### My History
 
 •	O – Levels: Arab Unity School, Dubai, United Arab Emirates.
 Math, Physics, Chemistry, English, Environmental Management, Design and technology, Information Technology, Arabic. (2017/2018).
