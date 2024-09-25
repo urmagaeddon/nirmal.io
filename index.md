@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+```
 Text can be **bold**, _italic_, or ~~strikethrough~~., or can it 0_0
 
 [Link to another page](./another-page.html).
@@ -9,7 +9,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~., or can it 0_0
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+```
 ## About Me
 
 Hi, My name is Nirmal Kavindu Athukorale, a srilankan cybersecurity student, studying in Taylors University, Malaysia. This here is a site to 
