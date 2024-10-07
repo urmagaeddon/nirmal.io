@@ -12,6 +12,17 @@ layout: default
 Hi, My name is Nirmal Kavindu Athukorale, a srilankan cybersecurity student, studying in Taylors University, Malaysia. This here is a site to 
 showcase some of my experience
 
+## My Projects 
+
+>Qorona, National AI competition submission 2021
+
+>Vulnerability Exploitation
+
+> Network Layouts
+
+> Aetting up a SOC on Azure
+
+
 ## My Certificates 
 
 > National Artificial Intelligence Competition participant, Qatar University (2021)
