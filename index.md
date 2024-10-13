@@ -15,35 +15,37 @@ showcase some of my experience
 ## My Projects 
 
 > <a href="https://drive.google.com/file/d/1yiU6CseaNJk-xSv45qwRsV66O17ym-4C/view?usp=sharing">Qatar National Artificial Intelligence Competition 2021</a>
+  ><a href="https://drive.google.com/file/d/1Zw8XidgQ8OLxe79b634fLVXxs5yllZAv/view?usp=drive_link">Files</a>
+  ><a href="https://drive.google.com/file/d/1C9f8UMO3oL59L9b-1i_dt3TXpZzPBFkX/view?usp=drive_link">Document</a>
 
-> <a href="[url](https://drive.google.com/file/d/1P3p_6G_GyGiKoWjpf8CdY_7bzWe0DUcR/view?usp=sharing)">Vulnerability Exploitation</a>
+> <a href="https://drive.google.com/file/d/1P3p_6G_GyGiKoWjpf8CdY_7bzWe0DUcR/view?usp=sharing">Vulnerability Exploitation</a>
 
-> <a href="[url](https://drive.google.com/file/d/17YNcGghyJYNAFLaSCYbZ0aNMzdBWCHHN/view?usp=sharing)">Network Layout</a>
+> <a href="https://drive.google.com/file/d/17YNcGghyJYNAFLaSCYbZ0aNMzdBWCHHN/view?usp=sharing">Network Layout</a>
 
-> <a href="[url](https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing)">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
 
 ## My Certificates 
 
-> National Artificial Intelligence Competition participant, Qatar University (2021)
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> CompTia a+ network
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> CompTia a+ cyber
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> Google cybersecurity
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> Google Project Management
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> Google Data analytics
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> Microsoft azure
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> AWS cloud
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> Splunk
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
-> CISCO cybersecurity
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
 
 
 ### My History
