@@ -14,13 +14,13 @@ showcase some of my experience
 
 ## My Projects 
 
->Qorona, National AI competition submission 2021
+> <a href="[url](https://drive.google.com/file/d/1yiU6CseaNJk-xSv45qwRsV66O17ym-4C/view?usp=sharing)">Qatar National Artificial Intelligence Competition 2021</a>
 
->Vulnerability Exploitation
+> <a href="[url](https://drive.google.com/file/d/1P3p_6G_GyGiKoWjpf8CdY_7bzWe0DUcR/view?usp=sharing)">Vulnerability Exploitation</a>
 
-> Network Layouts
+> <a href="[url](https://drive.google.com/file/d/17YNcGghyJYNAFLaSCYbZ0aNMzdBWCHHN/view?usp=sharing)">Network Layout</a>
 
-> Aetting up a SOC on Azure
+> <a href="[url](https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing)">A simple Security Operations Centre</a>
 
 
 ## My Certificates 
