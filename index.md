@@ -27,25 +27,25 @@ showcase some of my experience
 
 ## My Certificates 
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing"> Google Project Management</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">Google Cybersecurity</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">Google Data Analytics</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">Cisco Cybersecurity</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">CompTIA a+ Cybersecurity</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">CompTIA a+ Networks</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">Microsoft Azure</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">Amazon AWS Clouds Solutions Architect</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">Splunk 1</a>
 
-> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">A simple Security Operations Centre</a>
+> <a href="https://drive.google.com/file/d/1nobQEWwx1s_AlBJ6bsFmSNLOQIogOAjk/view?usp=sharing">Splunk 2</a>
 
 
 ### My History
