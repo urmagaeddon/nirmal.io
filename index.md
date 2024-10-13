@@ -14,7 +14,7 @@ showcase some of my experience
 
 ## My Projects 
 
-> <a href="[url](https://drive.google.com/file/d/1yiU6CseaNJk-xSv45qwRsV66O17ym-4C/view?usp=sharing)">Qatar National Artificial Intelligence Competition 2021</a>
+> <a href="https://drive.google.com/file/d/1yiU6CseaNJk-xSv45qwRsV66O17ym-4C/view?usp=sharing">Qatar National Artificial Intelligence Competition 2021</a>
 
 > <a href="[url](https://drive.google.com/file/d/1P3p_6G_GyGiKoWjpf8CdY_7bzWe0DUcR/view?usp=sharing)">Vulnerability Exploitation</a>
 
