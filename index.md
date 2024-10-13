@@ -14,8 +14,8 @@ showcase some of my experience
 
 ## My Projects 
 
-> <a href="https://drive.google.com/file/d/1yiU6CseaNJk-xSv45qwRsV66O17ym-4C/view?usp=sharing">Qatar National Artificial Intelligence Competition 2021</a>|
- ><a href="https://drive.google.com/file/d/1C9f8UMO3oL59L9b-1i_dt3TXpZzPBFkX/view?usp=drive_link">Document</a>| 
+> <a href="https://drive.google.com/file/d/1yiU6CseaNJk-xSv45qwRsV66O17ym-4C/view?usp=sharing">Qatar National Artificial Intelligence Competition 2021</a> |
+ ><a href="https://drive.google.com/file/d/1C9f8UMO3oL59L9b-1i_dt3TXpZzPBFkX/view?usp=drive_link">Document</a> | 
  ><a href="https://drive.google.com/file/d/1Zw8XidgQ8OLxe79b634fLVXxs5yllZAv/view?usp=drive_link">Files</a>
 
 
